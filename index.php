@@ -186,8 +186,9 @@ if ($result && mysqli_num_rows($result) > 0) {
 </div>
 
 <footer>
-  © <?php echo date('Y'); ?> Gestão de Stocks — Desenvolvido por Nuno 🚀
+  © <?php echo date('Y'); ?> Gestão de Stocks — Desenvolvido pelo Grupo zero três 
 </footer>
 
 </body>
 </html>
+
