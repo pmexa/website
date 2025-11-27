@@ -164,8 +164,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </div>
 
 <footer>
-  © <?php echo date('Y'); ?> Gestão de Stocks — Desenvolvido por Nuno 🚀
+  © <?php echo date('Y'); ?> Gestão de Stocks — Desenvolvido pelo Grupo zero três
 </footer>
 
 </body>
 </html>
+
